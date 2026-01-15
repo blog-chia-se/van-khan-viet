@@ -1,6 +1,8 @@
 title: Văn khấn Việt
 description: Tổng hợp các bài văn khấn truyền thống trong đời sống người Việt
 
+show_downloads: false
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-seo-tag
